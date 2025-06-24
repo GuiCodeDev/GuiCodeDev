@@ -1,10 +1,23 @@
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">Pedro Guilherme</h2>
 
 ###
 
-<p align="left">## Olá, eu sou o Pedro Guilherme 👋<br><br>Sou um estudante apaixonado por tecnologia, atualmente focado em me tornar um desenvolvedor Java Back-End.  <br>Estou sempre buscando evoluir, aprendendo novas ferramentas e colocando em prática tudo que estudo.<br><br>🎯 Objetivo: Conseguir minha primeira oportunidade como estagiário ou desenvolvedor júnior.  <br>📍 Localização: Ceará - Brasil  <br>🚀 Em busca de conhecimento e desafios reais no mundo da programação.<br><br>
-### 💻 Tecnologias que estou estudando:<br>- Java<br>- Spring Boot<br>- MySQL<br>- Git e GitHub<br><br>
-### 📚 Atualmente estudando:<br>- Maratona Java - DevDojo<br>- Fundamentos de programação orientada a objetos<br>- Boas práticas de código<br><br>Seja bem-vindo(a) ao meu perfil! Em breve, mais projetos estarão por aqui 🚀</p>
+<p align="left">Sou um estudante apaixonado por tecnologia, atualmente focado em me tornar um desenvolvedor Java Back-End.  <br>Estou sempre buscando evoluir, aprendendo novas ferramentas e colocando em prática tudo que estudo.</p>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/guilherme.sc21?igsh=azhubXkyaHA5cXRh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-guilherme-633baa287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
@@ -28,17 +41,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
-
-###
-
 <div align="left">
-  <a href="https://www.linkedin.com/in/pedro-guilherme-633baa287" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/guilherme.sc21?igsh=azhubXkyaHA5cXRh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
